@@ -544,12 +544,12 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/peridot/proprietary/odm/etc/thermal-yuanshen.conf:$(TARGET_COPY_OUT_ODM)/etc/thermal-yuanshen.conf \
     vendor/xiaomi/peridot/proprietary/odm/etc/thermalbreakboostconfig.xml:$(TARGET_COPY_OUT_ODM)/etc/thermalbreakboostconfig.xml \
     vendor/xiaomi/peridot/proprietary/odm/etc/usecaseKvManager.xml:$(TARGET_COPY_OUT_ODM)/etc/usecaseKvManager.xml \
-    vendor/xiaomi/peridot/proprietary/odm/firmware/0_click_P_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/0_click_P_RTP.bin \
-    vendor/xiaomi/peridot/proprietary/odm/firmware/1_doubelClick_P_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/1_doubelClick_P_RTP.bin \
-    vendor/xiaomi/peridot/proprietary/odm/firmware/2_tick_P_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/2_tick_P_RTP.bin \
-    vendor/xiaomi/peridot/proprietary/odm/firmware/3_thud_P_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/3_thud_P_RTP.bin \
-    vendor/xiaomi/peridot/proprietary/odm/firmware/4_pop_P_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/4_pop_P_RTP.bin \
-    vendor/xiaomi/peridot/proprietary/odm/firmware/5_heavyClick_P_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/5_heavyClick_P_RTP.bin \
+    vendor/xiaomi/peridot/proprietary/vendor/etc/vibrator/effect_0.bin:$(TARGET_COPY_OUT_VENDOR)/etc/vibrator/effect_0.bin \
+    vendor/xiaomi/peridot/proprietary/vendor/etc/vibrator/effect_1.bin:$(TARGET_COPY_OUT_VENDOR)/etc/vibrator/effect_1.bin \
+    vendor/xiaomi/peridot/proprietary/vendor/etc/vibrator/effect_2.bin:$(TARGET_COPY_OUT_VENDOR)/etc/vibrator/effect_2.bin \
+    vendor/xiaomi/peridot/proprietary/vendor/etc/vibrator/effect_3.bin:$(TARGET_COPY_OUT_VENDOR)/etc/vibrator/effect_3.bin \
+    vendor/xiaomi/peridot/proprietary/vendor/etc/vibrator/effect_4.bin:$(TARGET_COPY_OUT_VENDOR)/etc/vibrator/effect_4.bin \
+    vendor/xiaomi/peridot/proprietary/vendor/etc/vibrator/effect_5.bin:$(TARGET_COPY_OUT_VENDOR)/etc/vibrator/effect_5.bin \
     vendor/xiaomi/peridot/proprietary/odm/firmware/CAMERA_ICP.b00:$(TARGET_COPY_OUT_ODM)/firmware/CAMERA_ICP.b00 \
     vendor/xiaomi/peridot/proprietary/odm/firmware/CAMERA_ICP.b01:$(TARGET_COPY_OUT_ODM)/firmware/CAMERA_ICP.b01 \
     vendor/xiaomi/peridot/proprietary/odm/firmware/CAMERA_ICP.b02:$(TARGET_COPY_OUT_ODM)/firmware/CAMERA_ICP.b02 \
