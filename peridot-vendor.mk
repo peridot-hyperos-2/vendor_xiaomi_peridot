@@ -2684,7 +2684,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.data.connectionaidl.xml \
     vendor.qti.hardware.data.iwlandata.xml \
     vendor.qti.hardware.display.allocator-service.xml \
-    vendor.qti.hardware.display.composer-service.xml \
     vendor.qti.hardware.display.demura-service.xml \
     vendor.qti.hardware.perf2.xml \
     vendor.qti.hardware.qconfig-service.xml \
