@@ -314,6 +314,8 @@
     <string name="support_lea_set_active_device">false</string>
     <!-- whether support watchHfp switch device-->
     <string name="support_watchHfp_switch_device">peridot</string>
+    <!-- whether support virtual call-->
+    <string name="support_virtual_call">peridot</string>
 <!-- Bluethooth END -->
 
 <!-- Display BEGIN -->
