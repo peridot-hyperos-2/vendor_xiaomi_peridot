@@ -1531,11 +1531,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/peridot/proprietary/vendor/etc/display/DPU9__.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display/DPU9__.xml \
     vendor/xiaomi/peridot/proprietary/vendor/etc/display/advanced_sf_offsets.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display/advanced_sf_offsets.xml \
     vendor/xiaomi/peridot/proprietary/vendor/etc/display/thermallevel_to_fps.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display/thermallevel_to_fps.xml \
-    vendor/xiaomi/peridot/proprietary/vendor/etc/displayconfig/display_id_4630946416293825923.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4630946416293825923.xml \
-    vendor/xiaomi/peridot/proprietary/vendor/etc/displayconfig/display_id_4630946545580055171.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4630946545580055171.xml \
-    vendor/xiaomi/peridot/proprietary/vendor/etc/displayconfig/display_id_4630947039571902851.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4630947039571902851.xml \
-    vendor/xiaomi/peridot/proprietary/vendor/etc/displayconfig/display_id_4630947082089526659.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4630947082089526659.xml \
-    vendor/xiaomi/peridot/proprietary/vendor/etc/displayconfig/display_id_4630947256895775107.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4630947256895775107.xml \
     vendor/xiaomi/peridot/proprietary/vendor/etc/dolby/dax-default-spatializer.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dolby/dax-default-spatializer.xml \
     vendor/xiaomi/peridot/proprietary/vendor/etc/dolby/dax-default.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dolby/dax-default.xml \
     vendor/xiaomi/peridot/proprietary/vendor/etc/dpm_vndr/vendor.dpm.conf:$(TARGET_COPY_OUT_VENDOR)/etc/dpm_vndr/vendor.dpm.conf \
