@@ -2414,7 +2414,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/peridot/proprietary/vendor/lib64/soundfx/libmisoundfx_n2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libmisoundfx_n2.so \
     vendor/xiaomi/peridot/proprietary/vendor/lib64/soundfx/libquasar.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libquasar.so \
     vendor/xiaomi/peridot/proprietary/vendor/lib64/soundfx/libreverbwrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libreverbwrapper.so \
-    vendor/xiaomi/peridot/proprietary/vendor/lib64/soundfx/libshoebox.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libshoebox.so \
     vendor/xiaomi/peridot/proprietary/vendor/lib64/soundfx/libspatializer.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libspatializer.so \
     vendor/xiaomi/peridot/proprietary/vendor/lib64/soundfx/libspatializer_fx.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libspatializer_fx.so \
     vendor/xiaomi/peridot/proprietary/vendor/lib64/soundfx/libswgamedap.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libswgamedap.so \
